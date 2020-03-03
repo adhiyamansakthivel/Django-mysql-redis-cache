@@ -1,0 +1,14 @@
+<html>
+<head>
+  <title>Recipes</title>
+</head>
+<body>
+{% if users %}
+{% for user in users %}
+    <h1>{{ user.username }}</h1>
+    <p>{{ user.first_name }}</p>
+
+{% endfor %}
+{% endif %}
+</body>
+</html>
