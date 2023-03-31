@@ -6,6 +6,6 @@ mysql-client==0.0.1
 mysql-connector==2.2.9
 mysqlclient==1.4.6
 pytz==2019.3
-redis==3.4.1
+redis==4.4.4
 six==1.14.0
 sqlparse==0.3.0
