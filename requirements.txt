@@ -8,4 +8,4 @@ mysqlclient==1.4.6
 pytz==2019.3
 redis==3.4.1
 six==1.14.0
-sqlparse==0.3.0
+sqlparse==0.4.4
